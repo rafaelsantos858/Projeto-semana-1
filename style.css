@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: crimson;
+}
+
+#menu{
+    background-color: black;
+}
+.menu{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align:center;
+    padding: 2cm;
+    color: white;
+}
+#timeline{
+    font-size: 18px;
+    font-family: unset;
+    font-weight: bold;
+
+
+}
+#main{
+    background-image: url(https://wallpapercave.com/wp/bLoy98i.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+#title{
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 30px;
+     background-image: url(https://img.freepik.com/vetores-gratis/fundo-abstrato-vermelho_1078-483.jpg?size=626&ext=jpg);
+     background-attachment: fixed;
+     background-size: 100%;
+     background-repeat: no-repeat;
+}
+
+
+#img-div{
+ 
+}
+
+#p1{
+    font-family: sans-serif;
+    font-style: oblique;
+    font-size: 18px;    
+    font-weight: bold;
+}
+
+#h2{
+   font-style: italic;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+footer{
+    background-color: black;
+    padding: 2cm;
+}
